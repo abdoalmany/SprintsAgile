@@ -1,0 +1,21 @@
+DOR("Definition of ready")
+----------------------------------
+ A backlog needs to be clear , testable and feasible:-
+  User story is clear if all Scrum team members have a shared understanding of what it means.
+  An item is testable if there is an effective way to determine if the functionality works as expected . 
+  A user story is feasible if it can be completed in one sprint
+============================================================================
+DOD("Definition of done")
+----------------------------------
+The Definition of Done is an agreement between Development Team and the Product Owner on what needs to be completed for each user story.
+Sample Definition of Done:-
+  Code produced (all ‘to do’ items in code completed)
+  Code commented, checked in and run against current version in source control
+  Peer reviewed (or produced with pair programming) and meeting development standards
+  Builds without errors
+  Unit tests written and passing
+  Deployed to system test environment and passed system tests
+  Passed UAT (User Acceptance Testing) and signed off as meeting requirements
+  Any build / deployment / configuration changes are implemented / documented / communicated
+  Relevant documentation / diagrams produced and / or updated
+  Remaining hours for task set to zero and task closed
